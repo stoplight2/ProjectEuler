@@ -1,5 +1,5 @@
 # ProjectEuler
 
-My solutions to ProjectEuler. For some the PEXXPy solution is the correct one. Some of the problems I might be working on them at the moment and so you won't see the solutions on them.
+My solutions to ProjectEuler. For some the PEXXPy solution is the correct one. Some of the problems may not be correct as it might be just an attempt to solve the problems. But this are very rare.
 
 Please visit youtube channel: ProjectEuler
